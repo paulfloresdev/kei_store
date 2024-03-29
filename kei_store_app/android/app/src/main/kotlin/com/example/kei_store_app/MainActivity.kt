@@ -1,0 +1,6 @@
+package com.example.kei_store_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
